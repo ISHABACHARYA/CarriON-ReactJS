@@ -11,4 +11,7 @@
     
     Some of the available features are shown as below: 
 
-![](ezgif.com-video-to-gif (1).gif)   ![](ezgif.com-video-to-gif (2).gif)
+![](ezgif.com-video-to-gif (1).gif)  
+
+
+![](ezgif.com-video-to-gif (2).gif)
