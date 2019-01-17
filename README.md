@@ -1,5 +1,8 @@
 " -A delivery service providing website made in React Js."
+
+
  Packages used in this app are :
+
    "react-bootstrap": "^0.32.1",
     "react-dom": "^16.2.0",
     "react-parallax": "^1.6.1",
@@ -11,7 +14,8 @@
     
     Some of the available features are shown as below: 
 
-![](ezgif.com-video-to-gif (1).gif)  
+
+![](desktopView.gif)  
 
 
-![](ezgif.com-video-to-gif (2).gif)
+![](mobileView.gif)
